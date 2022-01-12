@@ -1,0 +1,8 @@
+kromosom 1, g1
+kromosom 2, g2
+kromosom 3, g3
+kromosom 4, g4
+kromosom 5, g5
+kromosom 6, g6
+kromosom 7, g7
+kromosom 8, g8
